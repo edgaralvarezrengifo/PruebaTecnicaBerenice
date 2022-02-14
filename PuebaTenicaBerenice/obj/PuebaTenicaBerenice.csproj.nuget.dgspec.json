@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edgar\\source\\repos\\PuebaTenicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj": {}
+    "C:\\Users\\edgar\\source\\repos\\Nueva carpeta\\PruebaTecnicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edgar\\source\\repos\\PuebaTenicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj": {
+    "C:\\Users\\edgar\\source\\repos\\Nueva carpeta\\PruebaTecnicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\source\\repos\\PuebaTenicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\source\\repos\\Nueva carpeta\\PruebaTecnicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj",
         "projectName": "PuebaTenicaBerenice",
-        "projectPath": "C:\\Users\\edgar\\source\\repos\\PuebaTenicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj",
+        "projectPath": "C:\\Users\\edgar\\source\\repos\\Nueva carpeta\\PruebaTecnicaBerenice\\PuebaTenicaBerenice\\PuebaTenicaBerenice.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\source\\repos\\PuebaTenicaBerenice\\PuebaTenicaBerenice\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\source\\repos\\Nueva carpeta\\PruebaTecnicaBerenice\\PuebaTenicaBerenice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -47,6 +47,26 @@
             "Microsoft.AspNetCore.SpaServices.Extensions": {
               "target": "Package",
               "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
